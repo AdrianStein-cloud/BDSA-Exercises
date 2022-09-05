@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDSA-Exercises", "BDSA-Exercises\BDSA-Exercises.csproj", "{0F3C8AD9-61F4-4AB1-A3CC-3C4AD5B02E4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDSA-Exercises.Tests", "BDSA-Exercises.Tests\BDSA-Exercises.Tests.csproj", "{FA01480C-2E80-4FE2-B212-C7F664CD8304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F3C8AD9-61F4-4AB1-A3CC-3C4AD5B02E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F3C8AD9-61F4-4AB1-A3CC-3C4AD5B02E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F3C8AD9-61F4-4AB1-A3CC-3C4AD5B02E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA01480C-2E80-4FE2-B212-C7F664CD8304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA01480C-2E80-4FE2-B212-C7F664CD8304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA01480C-2E80-4FE2-B212-C7F664CD8304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA01480C-2E80-4FE2-B212-C7F664CD8304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
